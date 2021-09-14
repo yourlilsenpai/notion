@@ -1,0 +1,4 @@
+<a class="weatherwidget-io" href="https://forecast7.com/en/16d40120d60/baguio/" data-label_1="BAGUIO" data-label_2="WEATHER" data-font="Arimo" data-icons="Climacons Animated" data-days="5" data-theme="clear" data-basecolor="#2f3437" data-textcolor="#ffffff" data-highcolor="#ffc645" data-lowcolor="#ffffff" data-suncolor="#ffc645" data-cloudcolor="#ffffff" >BAGUIO WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
